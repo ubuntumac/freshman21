@@ -5,7 +5,7 @@ author: Tim Mahoney
 email: tim@timothymahoney.com
 description: "Tips, Tricks, and HowTos on getting Ubuntu running really well on your Mac or Macbook Pro" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "ubuntu,mac,macbook,pro,linux"
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://ubuntumac.github.io" # the base hostname & protocol for your site
 locale: en_US
 
