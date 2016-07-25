@@ -6,22 +6,12 @@ permalink: /about/
 ---
 
 
-### Freshman21 is a Jekyll theme.
+### Do it better
 
-A tribute to Twenty Twelve and Twenty eleven.
+Running Ubuntu on your Macbook is pretty easy. However, it can be better.
 
-I like wordpress's theme Twenty Twelve and Twenty eleven very much. 
-So I called my Jekyll theme Freshman21 (Freshman <q>twenty-first</q> , it means twenty-first century, not twenty-one), this theme is based on my former theme [Freshman](https://github.com/yulijia/freshman/).
+That's what I'm exploring. I want the keyboard to be awesome. The clickpad to
+be legit. The keyboard shortcuts to be awesome. The scaling on the monitor to
+be perfect.
 
-Freshman21 have two main page format, one is [single column](http://yulijia.net/en/  "see demo"), the other is two columns. For more details, please see the articles on the site.
-
-<cite>Proudly enjoy using Freshman21 theme.</cite> <code>;)</code>
-
-<img title="麋鹿" src="https://i.imgur.com/Mdc4szJl.jpg" alt="麋鹿" width="580" height="668" />
-
-#### Hi, the picture you have seen in the sample-page is a Père David's deer photoed by my friend at Beijing Milu Park, China.
-
-Milu(麋鹿) is the chinese name of Père David's deer.
-
-
-
+1 post at a time.
