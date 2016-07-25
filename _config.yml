@@ -1,22 +1,22 @@
 ### Site info:
-title: Freshman21
-tagline: Another Jekyll theme, Freshman twenty-first
-author: Lijia Yu
-email: yu@lijiayu.net
-description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
-baseurl: "/freshman21" # the subpath of your site, e.g. /blog/
-url: "http://yulijia.net/freshman21" # the base hostname & protocol for your site
+title: Ubuntu on Mac
+tagline: Run Ubuntu 16.04 on your Mac
+author: Tim Mahoney
+email: tim@timothymahoney.com
+description: "Tips, Tricks, and HowTos on getting Ubuntu running really well on your Mac or Macbook Pro" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "ubuntu,mac,macbook,pro,linux"
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "https://ubuntumac.github.io" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
-twitter_username: yulijia
-github_username:  yulijia
-disqus_shortname: freshman21
+twitter_username: timothymahoney
+github_username:  timmahoney
+disqus_shortname: timmahoney
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
-aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
-google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
+aboutme: I'm just a guy that wants Ubuntu to be a great experience on my Macbook Pro Retina. Thought I'd share.
+aboutme_photo:
+google_analytics_key: # put YOUR key here to enable tracking! (blank to disable)
 
 
 ### Site setting:
@@ -46,14 +46,14 @@ locales:
     cn:
       Aboutme: "关于我"
       Archives: "存档"
-      Blogroll: "良师益友"        
-      Categories: "分类目录"    
+      Blogroll: "良师益友"
+      Categories: "分类目录"
       Copyright_Notice: "版权声明"
       Recent_Posts: "近期文章"
-      Tags: "标签" 
+      Tags: "标签"
       Previous: "前一页"
       Next: "后一页"
-      PostedInCategories: "目录:"   
+      PostedInCategories: "目录:"
       Taggedwith: "| 标签:"
       PostDate: "| 发表时间: "
       Google_search: "站内搜索"
@@ -101,12 +101,12 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-      - name: Freshman
-        href: http://yulijia.net/freshman
-        title: Another Jekyll blog theme
-      - name: author's website
-        href: http://yulijia.net/
-        title: Lijia Yu's website
+      # - name: Tim Mahoney
+      #   href: https://twitter.com/timothymahoney
+      #   title:
+      # - name: author's website
+      #   href: http://yulijia.net/
+      #   title: Lijia Yu's website
 
 
 ### Build settings
