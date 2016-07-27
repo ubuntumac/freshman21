@@ -28,6 +28,7 @@ locales:
     en:
       Aboutme: "About Me"
       Archives: "Archives"
+      Setup: "Setup"
       Blogroll: "Blogroll"
       Categories: "Categories"
       Copyright_Notice: "Copyright Notice"
