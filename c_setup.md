@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Setup
+title: Setup
 comments: no
 permalink: /setup/
 ---
